@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pichinoco blog</title>
-    <link>https://pichinoco.github.io/</link>
-    <description>Recent content on pichinoco blog</description>
+    <title>Posts on pichinoco blog</title>
+    <link>https://pichinoco.github.io/post/</link>
+    <description>Recent content in Posts on pichinoco blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Fri, 20 Dec 2019 13:39:06 +0900</lastBuildDate>
     
-	<atom:link href="https://pichinoco.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pichinoco.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

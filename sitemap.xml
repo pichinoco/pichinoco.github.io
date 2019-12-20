@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pichinoco.github.io/categories/</loc>
+    <loc>https://pichinoco.github.io/post/first-post/</loc>
+    <lastmod>2019-12-20T13:39:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://pichinoco.github.io/</loc>
+    <lastmod>2019-12-20T13:39:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pichinoco.github.io/post/</loc>
+    <lastmod>2019-12-20T13:39:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pichinoco.github.io/categories/</loc>
   </url>
   
   <url>
