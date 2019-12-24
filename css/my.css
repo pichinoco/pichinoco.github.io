@@ -24,6 +24,7 @@ html {
     border-top-color: rgba(236,30,46, 0.75);
 }
 .sidebar-button-link,.sidebar-profile-name {
+    background:rgba(255,255,255, 0.3);
     color: rgba(0, 0, 0, 0.75) !important;
     font-weight: 800;
 }
