@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>subcategory on BLOG</title>
-    <link>https://www.nnyyllmm.tokyo/categories/subcategory/</link>
+    <link>https://pichinoco.github.io/categories/subcategory/</link>
     <description>Recent content in subcategory on BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Tue, 24 Dec 2019 14:24:54 +0900</lastBuildDate>
     
-	<atom:link href="https://www.nnyyllmm.tokyo/categories/subcategory/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pichinoco.github.io/categories/subcategory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>https://www.nnyyllmm.tokyo/2019/12/test/</link>
+      <link>https://pichinoco.github.io/2019/12/test/</link>
       <pubDate>Tue, 24 Dec 2019 14:24:54 +0900</pubDate>
       
-      <guid>https://www.nnyyllmm.tokyo/2019/12/test/</guid>
+      <guid>https://pichinoco.github.io/2019/12/test/</guid>
       <description></description>
     </item>
     
