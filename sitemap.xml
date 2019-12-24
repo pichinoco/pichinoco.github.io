@@ -8,37 +8,7 @@
   </url>
   
   <url>
-    <loc>https://pichinoco.github.io/categories/</loc>
-    <lastmod>2019-12-24T14:24:54+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pichinoco.github.io/categories/category/</loc>
-    <lastmod>2019-12-24T14:24:54+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pichinoco.github.io/post/</loc>
-    <lastmod>2019-12-24T14:24:54+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pichinoco.github.io/categories/subcategory/</loc>
-    <lastmod>2019-12-24T14:24:54+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pichinoco.github.io/tags/tag1/</loc>
-    <lastmod>2019-12-24T14:24:54+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pichinoco.github.io/tags/tag2/</loc>
-    <lastmod>2019-12-24T14:24:54+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pichinoco.github.io/tags/</loc>
     <lastmod>2019-12-24T14:24:54+09:00</lastmod>
   </url>
   
@@ -58,7 +28,15 @@
   </url>
   
   <url>
-    <loc>https://pichinoco.github.io/archives/</loc>
+    <loc>https://pichinoco.github.io/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BC/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pichinoco.github.io/%E3%82%BF%E3%82%B0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pichinoco.github.io/%E8%A8%98%E4%BA%8B%E4%B8%80%E8%A6%A7/</loc>
   </url>
   
 </urlset>
