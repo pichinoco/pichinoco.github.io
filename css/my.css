@@ -24,11 +24,14 @@ html {
     border-top-color: rgba(236,30,46, 0.75);
 }
 .sidebar-button-link {
-    background:rgba(255,255,255, 0.4);
-    color: rgba(52, 50, 100, 0.9) !important;
+    background:rgba(255,255,255, 0.35);
+    color: rgba(52,50,80, 0.85) !important;
     font-weight: 800;
 }
-
+.sidebar-profile-name {
+    color: rgba(0, 0, 0, 0.75) !important;
+    font-weight: 800;
+}
 .sidebar-profile-picture {
     max-width: 60px;
     max-height: 60px;
