@@ -1,0 +1,34 @@
+html {
+    font-size: 9px;
+}
+
+.post .post-meta a {
+    color: rgba(236,30,46);
+}
+
+.tag--primary, a.tag--primary {
+    color: rgba(236,30,46) !important;
+    border: 1px solid red;
+}
+
+.tag--primary:hover, a.tag--primary:hover {
+    color: orange !important;
+    border: 1px solid orange;
+}
+.tooltip:after, [data-tooltip]:after {
+    background-color: rgba(236,30,46, 0.75);
+
+}
+
+.tooltip--top:before, .tooltip:before, [data-tooltip]:before {
+    border-top-color: rgba(236,30,46, 0.75);
+}
+.sidebar-button-link,.sidebar-profile-name {
+    color: rgba(0, 0, 0, 0.75) !important;
+    font-weight: 800;
+}
+
+.sidebar-profile-picture {
+    max-width: 60px;
+    max-height: 60px;
+}
